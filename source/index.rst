@@ -10,6 +10,12 @@
    :maxdepth: 2
    :caption: 使用过程
 
+   用户需完成的任务.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 使用过程
+
    使用过程/quickstart.rst
 
 
