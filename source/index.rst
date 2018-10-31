@@ -16,19 +16,19 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 使用过程
+   :caption: 用户需完成的任务
 
    用户需完成的任务.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: 使用过程
+   :caption: 使用过程说明
 
    使用过程/quickstart.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: 分辨率设置
+   :caption: 其他设置
 
    使用过程/分辨率设置.md
 
