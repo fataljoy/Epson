@@ -23,7 +23,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 分辨率设置
+   :caption: 可能出现的问题
 
    使用过程/使用中常出现的问题.rst
 
