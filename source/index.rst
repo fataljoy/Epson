@@ -6,6 +6,14 @@
 爱普生投影仪使用说明书
 =================================
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 用户画像
+
+   用户画像.md
+
+
 .. toctree::
    :maxdepth: 2
    :caption: 使用过程
@@ -18,6 +26,11 @@
 
    使用过程/quickstart.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 分辨率设置
+
+   使用过程/分辨率设置.md
 
 
 Indices and tables
