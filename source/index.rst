@@ -7,18 +7,7 @@
 =================================
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 用户画像
 
-   用户画像.md
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: 用户需完成的任务
-
-   用户需完成的任务.rst
 
 .. toctree::
    :maxdepth: 2
