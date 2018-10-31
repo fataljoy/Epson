@@ -32,6 +32,11 @@
 
    使用过程/分辨率设置.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 分辨率设置
+
+   使用过程/使用中常出现的问题.rst
 
 Indices and tables
 ==================
