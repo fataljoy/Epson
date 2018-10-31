@@ -22,13 +22,13 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 轻松操作一二三四
+   :caption: 使用过程说明
 
    使用过程/quickstart.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: 分辨率设置
+   :caption: 其他设置
 
    使用过程/分辨率设置.md
 
